@@ -17,4 +17,3 @@ namespace plantel_estudiantes.Models
         public Profesor Pofesor { get; set; }
     }
     }
-}
