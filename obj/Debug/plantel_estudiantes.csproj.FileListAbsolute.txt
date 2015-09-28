@@ -40,3 +40,7 @@ D:\PROYECTOS VISUAL STUDIO 2013\plantel_estudiantes\plantel_estudiantes\bin\es\S
 D:\PROYECTOS VISUAL STUDIO 2013\plantel_estudiantes\plantel_estudiantes\obj\Debug\plantel_estudiantes.csprojResolveAssemblyReference.cache
 D:\PROYECTOS VISUAL STUDIO 2013\plantel_estudiantes\plantel_estudiantes\obj\Debug\plantel_estudiantes.dll
 D:\PROYECTOS VISUAL STUDIO 2013\plantel_estudiantes\plantel_estudiantes\obj\Debug\plantel_estudiantes.pdb
+D:\PROYECTOS VISUAL STUDIO 2013\plantel_estudiantes\plantel_estudiantes\bin\EntityFramework.dll
+D:\PROYECTOS VISUAL STUDIO 2013\plantel_estudiantes\plantel_estudiantes\bin\EntityFramework.SqlServer.dll
+D:\PROYECTOS VISUAL STUDIO 2013\plantel_estudiantes\plantel_estudiantes\bin\EntityFramework.xml
+D:\PROYECTOS VISUAL STUDIO 2013\plantel_estudiantes\plantel_estudiantes\bin\EntityFramework.SqlServer.xml
