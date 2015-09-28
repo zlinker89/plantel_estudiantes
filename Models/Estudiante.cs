@@ -18,9 +18,7 @@ namespace plantel_estudiantes.Models
         public string telefono { get; set; }
         // Foreign keys
         public int UsuarioId { get; set; }
-        public int MatriculaId { get; set; }
         // propiedades de navegacion
         public Usuario Usuario { get; set; }
-        public Matricula Matricula { get; set; }
     }
 }
